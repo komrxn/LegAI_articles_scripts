@@ -1,0 +1,777 @@
+[
+  {
+    "law_type": "constitution",
+    "article_number": "1",
+    "file_path": "1.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "2",
+    "file_path": "2.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "3",
+    "file_path": "3.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "4",
+    "file_path": "4.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "5",
+    "file_path": "5.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "6",
+    "file_path": "6.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "7",
+    "file_path": "7.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "8",
+    "file_path": "8.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "9",
+    "file_path": "9.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "10",
+    "file_path": "10.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "11",
+    "file_path": "11.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "12",
+    "file_path": "12.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "13",
+    "file_path": "13.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "14",
+    "file_path": "14.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "15",
+    "file_path": "15.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "16",
+    "file_path": "16.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "17",
+    "file_path": "17.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "18",
+    "file_path": "18.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "19",
+    "file_path": "19.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "20",
+    "file_path": "20.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "21",
+    "file_path": "21.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "22",
+    "file_path": "22.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "23",
+    "file_path": "23.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "24",
+    "file_path": "24.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "25",
+    "file_path": "25.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "26",
+    "file_path": "26.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "27",
+    "file_path": "27.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "28",
+    "file_path": "28.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "29",
+    "file_path": "29.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "30",
+    "file_path": "30.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "31",
+    "file_path": "31.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "32",
+    "file_path": "32.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "33",
+    "file_path": "33.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "34",
+    "file_path": "34.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "35",
+    "file_path": "35.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "36",
+    "file_path": "36.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "37",
+    "file_path": "37.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "38",
+    "file_path": "38.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "39",
+    "file_path": "39.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "40",
+    "file_path": "40.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "41",
+    "file_path": "41.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "42",
+    "file_path": "42.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "43",
+    "file_path": "43.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "44",
+    "file_path": "44.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "45",
+    "file_path": "45.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "46",
+    "file_path": "46.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "47",
+    "file_path": "47.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "48",
+    "file_path": "48.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "49",
+    "file_path": "49.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "50",
+    "file_path": "50.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "51",
+    "file_path": "51.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "52",
+    "file_path": "52.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "53",
+    "file_path": "53.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "54",
+    "file_path": "54.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "55",
+    "file_path": "55.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "56",
+    "file_path": "56.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "57",
+    "file_path": "57.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "58",
+    "file_path": "58.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "59",
+    "file_path": "59.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "60",
+    "file_path": "60.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "61",
+    "file_path": "61.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "62",
+    "file_path": "62.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "63",
+    "file_path": "63.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "64",
+    "file_path": "64.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "65",
+    "file_path": "65.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "66",
+    "file_path": "66.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "67",
+    "file_path": "67.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "68",
+    "file_path": "68.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "69",
+    "file_path": "69.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "70",
+    "file_path": "70.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "71",
+    "file_path": "71.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "72",
+    "file_path": "72.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "73",
+    "file_path": "73.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "74",
+    "file_path": "74.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "75",
+    "file_path": "75.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "76",
+    "file_path": "76.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "77",
+    "file_path": "77.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "78",
+    "file_path": "78.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "79",
+    "file_path": "79.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "80",
+    "file_path": "80.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "81",
+    "file_path": "81.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "82",
+    "file_path": "82.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "83",
+    "file_path": "83.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "84",
+    "file_path": "84.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "85",
+    "file_path": "85.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "86",
+    "file_path": "86.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "87",
+    "file_path": "87.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "88",
+    "file_path": "88.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "89",
+    "file_path": "89.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "90",
+    "file_path": "90.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "91",
+    "file_path": "91.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "92",
+    "file_path": "92.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "93",
+    "file_path": "93.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "94",
+    "file_path": "94.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "95",
+    "file_path": "95.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "96",
+    "file_path": "96.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "97",
+    "file_path": "97.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "98",
+    "file_path": "98.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "99",
+    "file_path": "99.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "100",
+    "file_path": "100.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "101",
+    "file_path": "101.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "102",
+    "file_path": "102.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "103",
+    "file_path": "103.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "104",
+    "file_path": "104.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "105",
+    "file_path": "105.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "106",
+    "file_path": "106.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "107",
+    "file_path": "107.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "108",
+    "file_path": "108.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "109",
+    "file_path": "109.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "110",
+    "file_path": "110.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "111",
+    "file_path": "111.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "112",
+    "file_path": "112.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "113",
+    "file_path": "113.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "114",
+    "file_path": "114.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "115",
+    "file_path": "115.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "116",
+    "file_path": "116.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "117",
+    "file_path": "117.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "118",
+    "file_path": "118.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "119",
+    "file_path": "119.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "120",
+    "file_path": "120.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "121",
+    "file_path": "121.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "122",
+    "file_path": "122.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "123",
+    "file_path": "123.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "124",
+    "file_path": "124.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "125",
+    "file_path": "125.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "126",
+    "file_path": "126.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "127",
+    "file_path": "127.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "128",
+    "file_path": "128.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "129",
+    "file_path": "129.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "130",
+    "file_path": "130.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "131",
+    "file_path": "131.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "132",
+    "file_path": "132.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "133",
+    "file_path": "133.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "134",
+    "file_path": "134.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "135",
+    "file_path": "135.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "136",
+    "file_path": "136.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "137",
+    "file_path": "137.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "138",
+    "file_path": "138.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "139",
+    "file_path": "139.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "140",
+    "file_path": "140.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "141",
+    "file_path": "141.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "142",
+    "file_path": "142.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "143",
+    "file_path": "143.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "144",
+    "file_path": "144.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "145",
+    "file_path": "145.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "146",
+    "file_path": "146.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "147",
+    "file_path": "147.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "148",
+    "file_path": "148.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "149",
+    "file_path": "149.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "150",
+    "file_path": "150.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "151",
+    "file_path": "151.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "152",
+    "file_path": "152.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "153",
+    "file_path": "153.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "154",
+    "file_path": "154.txt"
+  },
+  {
+    "law_type": "constitution",
+    "article_number": "155",
+    "file_path": "155.txt"
+  }
+]
