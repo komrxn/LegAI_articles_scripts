@@ -57,10 +57,10 @@ CODES = {
     "111457":  ("criminal",              "УК РУз",           "Уголовный кодекс",                   "https://lex.uz/ru/docs/111457"),
     "104723":  ("family",                "СК РУз",           "Семейный кодекс",                    "https://lex.uz/ru/docs/104723"),
     "6257291": ("labor",                 "ТК РУз",           "Трудовой кодекс",                    "https://lex.uz/ru/docs/6257291"),
-    "97661":   ("administrative",        "КоАО РУз",         "Административный кодекс",            "https://lex.uz/ru/docs/97661"),
+    "97661":   ("administrative",        "AK РУз",         "Административный кодекс",            "https://lex.uz/ru/docs/97661"),
     "2304140": ("budget",                "БК РУз",           "Бюджетный кодекс",                   "https://lex.uz/ru/docs/2304140"),
     "3517334": ("civil_procedure",       "ГПК РУз",          "Гражданский процессуальный",         "https://lex.uz/ru/docs/3517334"),
-    "6445147": ("constitution",          "Конституция РУз",  "Конституция",                        "https://lex.uz/docs/6445147"),
+    "6445147": ("constitution",          "Конституция РУз",  "Конституция",                        "https://lex.uz/ru/docs/6445147"),
     "163627":  ("criminal_executive",    "УИК РУз",          "Уголовно-исполнительный",            "https://lex.uz/ru/docs/163627"),
     "2876352": ("customs",               "ТамК РУз",         "Таможенный кодекс",                  "https://lex.uz/ru/docs/2876352"),
     "3523895": ("economic_procedure",    "ЭПК РУз",          "Экономический процессуальный",       "https://lex.uz/ru/docs/3523895"),
@@ -155,16 +155,19 @@ def extract_articles(html: str, show_progress=True) -> list[Article]:
         if show_progress:
             progress_bar(i + 1, len(clauses), prefix="Обработка")
         
+        # Try format 1: <span class="clausePrfx">Статья X.</span>
         prefix = clause.find("span", class_="clausePrfx")
-        if not prefix:
-            continue
+        if prefix:
+            number = extract_article_number(prefix)
+            suffix = clause.find("span", class_="clauseSuff")
+            title = suffix.get_text().strip() if suffix else ""
+        else:
+            # Format 2 (Constitution): <a id="...">Статья X.</a> directly in div
+            number = extract_article_number(clause)
+            title = ""  # Constitution doesn't have titles in CLAUSE_DEFAULT
         
-        number = extract_article_number(prefix)
         if not number:
             continue
-        
-        suffix = clause.find("span", class_="clauseSuff")
-        title = suffix.get_text().strip() if suffix else ""
         
         text_parts = []
         for sibling in clause.find_next_siblings():
